@@ -75,6 +75,9 @@
 
 ### 1. 게시글, 게시판
 
+<img width="789" height="579" alt="image" src="https://github.com/user-attachments/assets/81a3bb93-54ba-422c-bb85-32be8c3f3d40" />
+
+
 - 담당자: [@wosyh18](https://github.com/wosyh18)
 - **게시글 CRUD**: 게시글 작성(작성 시 원하는 , 삭제, 숨김처리를 할 수 있습니다.
 - **게시글 조회**: 게시글을 댓글순, 반응순, 최신순으로 페이지네이션 조회가 가능합니다.
@@ -104,6 +107,9 @@
   - API 호출을 줄이기 위해 해당 댓글에 대한 반응 상태(myReaction)와 총합(reactionCount)을 함께 반환. 신고, 삭제 등의 UI도 고려해 설계.
 
 ### 4. 반응하기
+
+<img width="331" height="148" alt="image" src="https://github.com/user-attachments/assets/0602ca27-ef34-4f5d-9459-92e57084705d" />
+
 
 - 담당자: [@wosyh18](https://github.com/wosyh18)
 - **게시글과 댓글 반응하기**: 게시글과 댓글에 자신의 반응 등록, 동일 반응 누를 시 삭제, 자신의 반응이 존재한 상태에서
